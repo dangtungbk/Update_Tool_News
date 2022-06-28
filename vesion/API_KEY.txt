@@ -1,2 +1,2 @@
-2114b8d0c3944d37b710f762b66013e5
-https://api-key-compyter-hello.cognitiveservices.azure.com/
+8f101ae8098844d491fe40edc8728d74
+https://api-key-img-to-text.cognitiveservices.azure.com/
