@@ -1,2 +1,2 @@
-8f101ae8098844d491fe40edc8728d74
+b1a627269b8f4b858d371ef2e7f55fa5
 https://api-key-img-to-text.cognitiveservices.azure.com/
